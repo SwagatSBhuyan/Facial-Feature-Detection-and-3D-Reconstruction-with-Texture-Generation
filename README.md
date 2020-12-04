@@ -32,7 +32,7 @@ Project uses below python packages:
 
 1. Clone the repository:
 ```
-git clone https://github.com/Microsoft/Deep3DFaceReconstruction
+git clone https://github.com/SwagatSBhuyan/Facial-Feature-Detection-and-3D-Reconstruction-with-Texture-Generation.git
 cd Deep3DFaceReconstruction
 ```
 
