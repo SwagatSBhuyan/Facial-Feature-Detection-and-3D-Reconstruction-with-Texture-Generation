@@ -33,7 +33,7 @@ Project uses below python packages:
 1. Clone the repository:
 ```
 git clone https://github.com/SwagatSBhuyan/Facial-Feature-Detection-and-3D-Reconstruction-with-Texture-Generation.git
-cd Deep3DFaceReconstruction
+cd Facial-Feature-Detection-and-3D-Reconstruction-with-Texture-Generation
 ```
 
 2. Download and install Python 3.6 or Anaconda 4 on your system as per your operating system [Download Python](https://www.python.org/downloads/release/python-360/) [Download Anaconda 4](https://www.anaconda.com/products/individual)
